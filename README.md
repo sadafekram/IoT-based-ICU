@@ -7,8 +7,7 @@
 - [Description](#description)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [License](#license)
-- [Contact](#contact)
+
 
 ## Description
 
